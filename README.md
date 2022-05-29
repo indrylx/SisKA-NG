@@ -1,6 +1,6 @@
 # siska_improve
 
-A new Flutter project.
+Sistem Informasi Akademi 
 
 ## Getting Started
 
